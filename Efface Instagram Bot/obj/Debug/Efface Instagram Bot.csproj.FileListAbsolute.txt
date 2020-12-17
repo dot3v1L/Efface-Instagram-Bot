@@ -1,0 +1,21 @@
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\Debug\Efface Instagram Bot.exe.config
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\Debug\Efface Instagram Bot.exe
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\Debug\Efface Instagram Bot.pdb
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\Debug\MaterialDesignColors.dll
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\Debug\MaterialDesignColors.pdb
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\obj\Debug\Efface Instagram Bot.csprojAssemblyReference.cache
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\obj\Debug\MainWindow.g.cs
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\obj\Debug\App.g.cs
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\obj\Debug\Efface Instagram Bot_MarkupCompile.cache
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\obj\Debug\Efface Instagram Bot_MarkupCompile.lref
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\obj\Debug\App.baml
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\obj\Debug\MainWindow.baml
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\obj\Debug\Efface Instagram Bot.g.resources
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\obj\Debug\Efface_Instagram_Bot.Properties.Resources.resources
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\obj\Debug\Efface Instagram Bot.csproj.GenerateResource.cache
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\obj\Debug\Efface Instagram Bot.csproj.CopyComplete
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\obj\Debug\Efface Instagram Bot.exe
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\obj\Debug\Efface Instagram Bot.pdb

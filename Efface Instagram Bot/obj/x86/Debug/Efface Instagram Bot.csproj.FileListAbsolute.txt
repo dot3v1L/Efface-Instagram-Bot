@@ -1,0 +1,326 @@
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\cef.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\cef_100_percent.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\cef_200_percent.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\cef_extensions.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\chrome_elf.dll
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\d3dcompiler_47.dll
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\devtools_resources.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\icudtl.dat
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\libcef.dll
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\libEGL.dll
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\libGLESv2.dll
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\am.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\ar.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\bg.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\bn.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\ca.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\cs.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\da.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\de.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\el.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\en-GB.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\en-US.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\es-419.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\es.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\et.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\fa.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\fi.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\fil.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\fr.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\gu.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\he.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\hi.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\hr.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\hu.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\id.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\it.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\ja.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\kn.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\ko.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\lt.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\lv.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\ml.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\mr.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\ms.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\nb.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\nl.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\pl.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\pt-BR.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\pt-PT.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\ro.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\ru.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\sk.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\sl.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\sr.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\sv.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\sw.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\ta.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\te.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\th.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\tr.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\uk.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\vi.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\zh-CN.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\locales\zh-TW.pak
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\natives_blob.bin
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\README.txt
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\snapshot_blob.bin
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\swiftshader\libEGL.dll
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\swiftshader\libGLESv2.dll
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\v8_context_snapshot.bin
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\CefSharp.BrowserSubprocess.exe
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\CefSharp.Core.dll
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\CefSharp.Core.pdb
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\CefSharp.Core.xml
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\CefSharp.dll
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\CefSharp.pdb
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\CefSharp.XML
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\CefSharp.Wpf.dll
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\CefSharp.Wpf.pdb
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\CefSharp.Wpf.XML
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\Efface Instagram Bot.exe.config
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\Efface Instagram Bot.exe
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\Efface Instagram Bot.pdb
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\MaterialDesignColors.dll
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\MaterialDesignThemes.Wpf.dll
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\MaterialDesignColors.pdb
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\MaterialDesignThemes.Wpf.xml
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\obj\x86\Debug\MainWindow.g.cs
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\obj\x86\Debug\App.g.cs
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\obj\x86\Debug\Efface Instagram Bot_MarkupCompile.cache
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\obj\x86\Debug\Efface Instagram Bot_MarkupCompile.lref
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\obj\x86\Debug\App.baml
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\obj\x86\Debug\MainWindow.baml
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\obj\x86\Debug\Efface Instagram Bot.g.resources
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\obj\x86\Debug\Efface_Instagram_Bot.Properties.Resources.resources
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\obj\x86\Debug\Efface Instagram Bot.csproj.GenerateResource.cache
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\obj\x86\Debug\Efface Instagram Bot.csproj.CopyComplete
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\obj\x86\Debug\Efface Instagram Bot.exe
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\obj\x86\Debug\Efface Instagram Bot.pdb
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\WindowsInput.dll
+C:\Main\Projects\Updates\Efface Instagram Bot\Efface Instagram Bot\bin\x86\Debug\WindowsInput.xml
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\cef.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\cef_100_percent.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\cef_200_percent.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\cef_extensions.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\chrome_elf.dll
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\d3dcompiler_47.dll
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\devtools_resources.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\icudtl.dat
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\libcef.dll
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\libEGL.dll
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\libGLESv2.dll
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\am.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\ar.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\bg.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\bn.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\ca.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\cs.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\da.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\de.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\el.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\en-GB.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\en-US.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\es-419.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\es.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\et.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\fa.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\fi.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\fil.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\fr.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\gu.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\he.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\hi.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\hr.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\hu.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\id.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\it.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\ja.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\kn.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\ko.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\lt.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\lv.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\ml.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\mr.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\ms.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\nb.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\nl.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\pl.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\pt-BR.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\pt-PT.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\ro.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\ru.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\sk.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\sl.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\sr.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\sv.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\sw.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\ta.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\te.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\th.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\tr.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\uk.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\vi.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\zh-CN.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\zh-TW.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\natives_blob.bin
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\README.txt
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\snapshot_blob.bin
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\swiftshader\libEGL.dll
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\swiftshader\libGLESv2.dll
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\v8_context_snapshot.bin
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\CefSharp.Core.dll
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\CefSharp.Core.pdb
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\CefSharp.Core.xml
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\CefSharp.dll
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\CefSharp.pdb
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\CefSharp.XML
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\CefSharp.Wpf.dll
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\CefSharp.Wpf.pdb
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\CefSharp.Wpf.XML
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\Efface Instagram Bot.exe.config
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\Efface Instagram Bot.exe
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\Efface Instagram Bot.pdb
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\MaterialDesignColors.dll
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\WindowsInput.dll
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\MaterialDesignColors.pdb
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\WindowsInput.xml
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\obj\x86\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\obj\x86\Debug\App.g.cs
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\obj\x86\Debug\Efface Instagram Bot_MarkupCompile.cache
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\obj\x86\Debug\Efface Instagram Bot_MarkupCompile.lref
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\obj\x86\Debug\App.baml
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\obj\x86\Debug\MainWindow.baml
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\obj\x86\Debug\Efface Instagram Bot.g.resources
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\obj\x86\Debug\Efface_Instagram_Bot.Properties.Resources.resources
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\obj\x86\Debug\Efface Instagram Bot.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\obj\x86\Debug\Efface Instagram Bot.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\obj\x86\Debug\Efface Instagram Bot.csproj.CopyComplete
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\obj\x86\Debug\Efface Instagram Bot.exe
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\obj\x86\Debug\Efface Instagram Bot.pdb
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\cef.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\cef_100_percent.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\cef_200_percent.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\cef_extensions.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\chrome_elf.dll
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\d3dcompiler_47.dll
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\devtools_resources.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\icudtl.dat
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\libcef.dll
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\libEGL.dll
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\libGLESv2.dll
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\am.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\ar.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\bg.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\bn.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\ca.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\cs.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\da.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\de.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\el.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\en-GB.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\en-US.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\es-419.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\es.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\et.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\fa.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\fi.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\fil.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\fr.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\gu.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\he.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\hi.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\hr.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\hu.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\id.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\it.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\ja.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\kn.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\ko.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\lt.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\lv.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\ml.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\mr.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\ms.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\nb.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\nl.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\pl.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\pt-BR.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\pt-PT.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\ro.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\ru.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\sk.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\sl.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\sr.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\sv.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\sw.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\ta.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\te.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\th.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\tr.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\uk.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\vi.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\zh-CN.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\locales\zh-TW.pak
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\natives_blob.bin
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\README.txt
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\snapshot_blob.bin
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\swiftshader\libEGL.dll
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\swiftshader\libGLESv2.dll
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\v8_context_snapshot.bin
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\CefSharp.Core.dll
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\CefSharp.Core.pdb
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\CefSharp.Core.xml
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\CefSharp.dll
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\CefSharp.pdb
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\CefSharp.XML
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\CefSharp.Wpf.dll
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\CefSharp.Wpf.pdb
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\CefSharp.Wpf.XML
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\Efface Instagram Bot.exe.config
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\Efface Instagram Bot.exe
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\Efface Instagram Bot.pdb
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\MaterialDesignColors.dll
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\WindowsInput.dll
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\MaterialDesignColors.pdb
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\WindowsInput.xml
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\obj\x86\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\obj\x86\Debug\App.g.cs
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\obj\x86\Debug\Efface Instagram Bot_MarkupCompile.cache
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\obj\x86\Debug\Efface Instagram Bot_MarkupCompile.lref
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\obj\x86\Debug\App.baml
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\obj\x86\Debug\MainWindow.baml
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\obj\x86\Debug\Efface Instagram Bot.g.resources
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\obj\x86\Debug\Efface_Instagram_Bot.Properties.Resources.resources
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\obj\x86\Debug\Efface Instagram Bot.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\obj\x86\Debug\Efface Instagram Bot.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\obj\x86\Debug\Efface Instagram Bot.csproj.CopyComplete
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\obj\x86\Debug\Efface Instagram Bot.exe
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\obj\x86\Debug\Efface Instagram Bot.pdb
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\HandyControl.dll
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\HandyControl.xml
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\en\HandyControl.resources.dll
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\fa\HandyControl.resources.dll
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\fr\HandyControl.resources.dll
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\ko-KR\HandyControl.resources.dll
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\ru\HandyControl.resources.dll
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\bin\x86\Debug\tr\HandyControl.resources.dll
+C:\Users\admin\Desktop\Efface Instagram Bot Source Code — копия\Efface Instagram Bot Source Code\Source Code\Efface Instagram Bot\obj\x86\Debug\Efface Instagram Bot.csprojAssemblyReference.cache
